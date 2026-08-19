@@ -1,0 +1,10 @@
+{
+  "name": "klassenchat-server",
+  "version": "1.0.0",
+  "description": "Einfacher Chat-Server für den Programmierkurs",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
